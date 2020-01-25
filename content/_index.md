@@ -1,0 +1,80 @@
++++
+author = "Rich Kuzsma"
+title = "About Rich"
+description = "Resume for Rich Kuzsma"
+date = "2019-12-01"
+aliases = ["posts","articles","blog","showcase","docs"]
+tags = [
+    "resume",
+    "index"
+]
++++
+
+## About
+
+Rich is currently a Director of Engineering at Constant Contact in Waltham, MA, helping foster an environment where his teams of software engineers can build great products that delight customers. He is a hands-on technical manager who enjoys working on deep technical problems, delivering quality software, and coaching engineers and managers.
+
+Rich is responsible for the development of Constant Contact's flagship web-based email editor. Hundreds of thousands of small businesses rely on this intuitive, rich web application to create beautiful, effective marketing emails.
+
+Rich also manages the contacts platform at Constant Contact. This vital Ruby on Rails application manages billions of customer email contacts and processes millions of API requests per day.
+
+Previously, Rich was a Director of Software Engineering at Oracle. His team of 20 engineers were responsible for developing the Oracle Application Testing Suite products, part of Oracle Enterprise Manager. His products were used by thousands of customers inside and outside of Oracle for functional, regression, and performance testing of applications including Oracle Fusion, EBS, Siebel, JD Edwards, and PeopleSoft.
+
+## Career Objective
+
+To use his talents as a passionate software engineer and technical leader to help people solve problems and build great products.
+
+
+## Skills and Achievements
+
+* Invented, designed, architected, managed, released, supported, and maintained a test automation product that earned millions of dollars in revenue for shareholders, helped hundreds of QA engineers test their software more efficiently, and played a key role in Oracle acquiring the Empirix web business unit.
+* Consulted at customer sites, presented at technical conferences, and pitched products to C-level executives.
+* Authored requirements, functional specs, design specs, prototypes, wireframes, and sequence diagrams.
+* Over 10,000 hours of coding experience in languages such as Java, Ruby, and JavaScript.
+* Closed thousands of customer support issues. I love helping customers!
+* Reverse-engineered and performance-tested hundreds of web apps.
+* Designed, implemented, published and maintained concise, clear product APIs.
+* Developed and released software using many languages and technologies, including: Java, Ruby on Rails, JavaScript (ES5/ES6), React, JQuery, Eclipse RCP, GraphQL, Docker, and AWS.
+* Released features and products ranging in size and complexity from single engineers working a few hours, to tens of engineers working for 3 years.
+* Initiated and delivered major rewrites of multiple highly complex, business-critical applications.
+
+
+## Side Projects (just a few)
+
+* [Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) conference talk
+
+* [Mutating HipChat with AWS, GraphQL, and React](https://www.cornchat.online/index.html) just for fun
+
+* [BrowserUp](https://browserup.com/) startup
+
+
+## Personality
+
+* Rich's peers and managers describe him as enthusiastic, optimistic, empathetic, and rational.
+* Works effectively with any customer, employee, personality type, manager, and time zone, both remotely and on-site.
+* Proven capacity to lead projects and teams through turbulent organizational change, including two corporate acquisitions.
+* Perseverant; worked two jobs (paid support and volunteer development) to earn his first full-time developer role.
+* Delivers tough, effective feedback when required.
+* Has been seen typing at talking speed.
+* "I can see the big picture, and I can focus on details. I can spot spelling mistakes and crooked pixels. I can clean up code. I can parse logs to find the needle in the haystack. I can normalize a query. I can fix legacy code. I willingly take on the dirty jobs so the team can focus on the rest."
+
+
+## Career History
+
+* 1992 - Started writing BASIC code on a 386 at age 12.
+* 1995 - Launched my first software business and sold my first shareware app.
+* 1997 - Developed the first web-based defect tracking system at Amano Cincinnati, Inc.
+* 2002 - Graduated from WPI with High Distinction and a BS/CS.
+* 2002 - Joined Empirix as a Support Engineer.
+    * 2004 - Promoted to Developer.
+    * 2006 - Promoted to Lead Developer, acting as Architect.
+    * 2008 - Promoted to Development Manager.
+* 2008 - Acquired by Oracle. Designated as Key Employee during acquisition phase.
+    * 2010 - Promoted to Senior Development Manager at Oracle.
+    * 2013 - Promoted to Director of Development.
+        * Managed 3 products and 20 developers across US, India, and China.
+        * Left my team after 11 years to start over in a new industry.
+* 2013 - Joined Constant Contact as Engineering Manager
+    * 2018 - Promoted to Senior Engineering Manager
+    * 2019 - Promoted to Director of Engineering
+        * Currently managing 2 major application platforms, 4 managers, and 50+ engineers.
