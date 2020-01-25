@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on About</title>
+    <link>https://rkuzsma.github.io/resume/post/</link>
+    <description>Recent content in Posts on About</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rkuzsma.github.io/resume/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Books I Already Read</title>
+      <link>https://rkuzsma.github.io/resume/post/reading-list-finished/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rkuzsma.github.io/resume/post/reading-list-finished/</guid>
+      <description>Already Read  Slaughterhouse Five The 3 body problem. (book 1) Thinking, Fast and Slow Siddhartha by Hermann Hess - not bad, good story of the buddha, recommended by joe pontes. Pastwatch - interesting take on an alternate history of the world if Columbus acted differently Kings of the Wyld. (Schuft recommendation, so of course it was good) - fun fantasy book, narrator voice was hard to get used to though The birth of plenty &amp;ndash; good, but you can just read the 4 bullet summary of it.</description>
+    </item>
+    
+    <item>
+      <title>Books to Read</title>
+      <link>https://rkuzsma.github.io/resume/post/reading-list-to-read/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rkuzsma.github.io/resume/post/reading-list-to-read/</guid>
+      <description>To Read   Helldivers
+  Swipe file podcast dave gearhard
+  How I built this podcast
+  Disgraceland podcast
+  Ray Dalio Principles
+  Spellmonger
+  Red Rising
+  Galaxy&#39;s Edge
+  High Output Management by Andy Grove
+  The next Ender book
+  The Quantum Magician
+  Jeff Sharra
+  How we decide by jonah lehrer</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://rkuzsma.github.io/resume/post/links/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rkuzsma.github.io/resume/post/links/</guid>
+      <description>Frequently Browsed  HN SlateStarCodex TIL Gwynne Dyer journalist historian  </description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://rkuzsma.github.io/resume/post/podcasts/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rkuzsma.github.io/resume/post/podcasts/</guid>
+      <description>Podcasts  Sam Harris, Waking Up / Making Sense Rationally Speaking Joe Rogan Tyler Cowen Dan Carlin&#39;s Hardcore History  </description>
+    </item>
+    
+  </channel>
+</rss>

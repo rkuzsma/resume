@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on About</title>
+    <link>https://rkuzsma.github.io/resume/tags/links/</link>
+    <description>Recent content in Links on About</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rkuzsma.github.io/resume/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://rkuzsma.github.io/resume/post/links/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rkuzsma.github.io/resume/post/links/</guid>
+      <description>Frequently Browsed  HN SlateStarCodex TIL Gwynne Dyer journalist historian  </description>
+    </item>
+    
+  </channel>
+</rss>
