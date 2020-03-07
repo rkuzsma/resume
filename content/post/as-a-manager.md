@@ -8,8 +8,6 @@ tags = [
 ]
 +++
 
-## As an Engineering Manager
-
 So you've just learned that I'm your manager. My condolences :)   I understand it can be an anxious time not knowing what to expect. To help paint a better picture of who I am, here's a list of some values and practices I tell every new engineer in my team.
 
 My #1 objective is to foster a safe environment where all engineers are challenged to learn, create, innovate, take risks, and efficiently deliver quality software for our customers. Everything I do is in service of that objective.
