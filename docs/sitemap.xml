@@ -1,69 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/as-a-manager/</loc>
-    <lastmod>2020-03-07T17:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/tags/books/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/reading-list-finished/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/reading-list-to-read/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/tags/links/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/links/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/tags/manager/</loc>
-    <lastmod>2020-03-07T17:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/tags/podcasts/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/podcasts/</loc>
-    <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/post/</loc>
-    <lastmod>2020-03-07T17:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rkuzsma.github.io/resume/tags/</loc>
-    <lastmod>2020-03-07T17:04:51-05:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://rkuzsma.github.io/resume/</loc>
     <lastmod>2020-01-24T21:20:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://rkuzsma.github.io/resume/post/as-a-manager/</loc>
+    <lastmod>2020-03-07T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>https://rkuzsma.github.io/resume/tags/manager/</loc>
+    <lastmod>2020-03-07T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>https://rkuzsma.github.io/resume/post/</loc>
+    <lastmod>2020-03-07T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>https://rkuzsma.github.io/resume/tags/</loc>
+    <lastmod>2020-03-07T17:11:12-05:00</lastmod>
+  </url><url>
     <loc>https://rkuzsma.github.io/resume/series/</loc>
   </url>
-  
 </urlset>

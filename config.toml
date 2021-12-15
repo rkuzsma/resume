@@ -14,8 +14,6 @@ mainSections = ["post"]
 author = "Rich Kuzsma"
 email = "rkuzsma@gmail.com"
 repoLink = "https://github.com/rkuzsma/resume"
-# For fun, make the upper left icon link to my favorite book
-iconLink = "https://www.hpmor.com"
 description = 'Coaching engineers. Building products. Getting stuff done.'
 # PostCSS is harder than it should be to get working on a theme
 # example site. It's easy on _your_ site.
@@ -27,6 +25,10 @@ favicon = 'favicon.ico'
 [[params.social]]
 icon = "github-circle"
 url = "https://github.com/rkuzsma/"
+
+[[params.social]]
+icon = "github-circle"
+url = "https://github.com/richkuz/"
 
 [[params.social]]
 icon = "linkedin"

@@ -2,23 +2,17 @@
 author = "Rich Kuzsma"
 title = "About Rich"
 description = "Resume for Rich Kuzsma"
-date = "2019-12-01"
-aliases = ["posts","articles","blog","showcase","docs"]
+date = "2021-12-15"
+
 tags = [
-    "resume",
-    "index"
 ]
 +++
 
 ## About
 
-Rich is currently a Director of Engineering at Constant Contact in Waltham, MA, helping foster an environment where his teams of software engineers can build great products that delight customers. He is a hands-on technical manager who enjoys working on deep technical problems, delivering quality software, and coaching engineers and managers.
+Rich is currently a Team Lead (Sr. Engineering Manager) at Elastic helping the Enterprise Search team make it easy for developers to build search experiences. He is a hands-on technical manager who enjoys working on deep technical problems, delivering quality software, and coaching engineers and managers.
 
-Rich is responsible for the development of Constant Contact's flagship web-based email editor. Hundreds of thousands of small businesses rely on this intuitive, rich web application to create beautiful, effective marketing emails.
-
-Rich also manages the contacts platform at Constant Contact. This vital Ruby on Rails application manages billions of customer email contacts and processes millions of API requests per day.
-
-Previously, Rich was a Director of Software Engineering at Oracle. His team of 20 engineers were responsible for developing the Oracle Application Testing Suite products, part of Oracle Enterprise Manager. His products were used by thousands of customers inside and outside of Oracle for functional, regression, and performance testing of applications including Oracle Fusion, EBS, Siebel, JD Edwards, and PeopleSoft.
+Previously, Rich was Director of Engineering at Constant Contact, responsible for the development of Constant Contact's flagship web-based email editor used by hundreds of thousands of small businesses to create beautiful, effective marketing emails. Rich also managed the Contacts platform, a Ruby on Rails application that manages billions of customer email contacts and processes millions of API requests per day.
 
 ## Career Objective
 
@@ -31,21 +25,22 @@ To use his talents as a passionate software engineer and technical leader to hel
 * Consulted at customer sites, presented at technical conferences, and pitched products to C-level executives.
 * Authored requirements, functional specs, design specs, prototypes, wireframes, and sequence diagrams.
 * Over 10,000 hours of coding experience in languages such as Java, Ruby, and JavaScript.
-* Closed thousands of customer support issues. I love helping customers!
+* Closed thousands of customer support issues.
 * Reverse-engineered and performance-tested hundreds of web apps.
 * Designed, implemented, published and maintained concise, clear product APIs.
 * Developed and released software using many languages and technologies, including: Java, Ruby on Rails, JavaScript (ES5/ES6), React, JQuery, Eclipse RCP, GraphQL, Docker, and AWS.
 * Released features and products ranging in size and complexity from single engineers working a few hours, to tens of engineers working for 3 years.
 * Initiated and delivered major rewrites of multiple highly complex, business-critical applications.
+* Directed software teams from 1 to 50 engineers, across frontend, backend, documentation, and design.
 
 
 ## Side Projects (just a few)
 
-* [Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) conference talk
+* [Hacking the Brain](https://www.youtube.com/watch?v=YEpWr1PknIU) conference talk (2015)
 
-* [Mutating HipChat with AWS, GraphQL, and React](https://www.cornchat.online/index.html) just for fun
+* [Mutating HipChat with AWS, GraphQL, and React](https://www.cornchat.online/index.html) just for fun (2018)
 
-* [BrowserUp](https://browserup.com/) startup
+* [BrowserUp](https://browserup.com/) startup (2018)
 
 
 ## Personality
@@ -56,7 +51,7 @@ To use his talents as a passionate software engineer and technical leader to hel
 * Perseverant; worked two jobs (paid support and volunteer development) to earn his first full-time developer role.
 * Delivers tough, effective feedback when required.
 * Has been seen typing at talking speed.
-* "I can see the big picture, and I can focus on details. I can spot spelling mistakes and crooked pixels. I can clean up code. I can parse logs to find the needle in the haystack. I can normalize a query. I can fix legacy code. I willingly take on the dirty jobs so the team can focus on the rest."
+* "I can see the big picture, and I can focus on details. I can spot spelling mistakes and crooked pixels. I can fix legacy code. I can parse logs to find a needle in the haystack. I willingly take on the dirty, unglamorous jobs so the team can focus on the rest."
 
 
 ## Career History
@@ -77,4 +72,7 @@ To use his talents as a passionate software engineer and technical leader to hel
 * 2013 - Joined Constant Contact as Engineering Manager
     * 2018 - Promoted to Senior Engineering Manager
     * 2019 - Promoted to Director of Engineering
-        * Currently managing 2 major application platforms, 4 managers, and 50+ engineers.
+        * Managed 2 major application platforms, 4 managers, and 50+ engineers.
+        * Left Constant Contact to join a fully distributed software development company.
+* 2020 - Joined Elastic as Team Lead
+    * Currently managing a small team of engineers building Enterprise Search.
