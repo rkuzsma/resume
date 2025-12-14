@@ -10,11 +10,11 @@ tags = [
 
 ## About
 
-Rich is currently Director of Engineering at LinkSquares, where he works with data scientists, machine learning engineers, and full-stack developers to enable thousands of legal experts to analyze millions of contracts using the latest AI technology. He enjoys doing deep technical hands-on problem solving, delivering quality software, and coaching engineers and managers.
+Rich is currently a Director of Engineering at LinkSquares, where he works with data scientists, machine learning engineers, and full-stack developers to enable thousands of legal experts to analyze millions of contracts using the latest AI technology. He enjoys doing deep, technical, hands-on problem solving, delivering quality software, and coaching engineers and managers.
 
 Previously, Rich was a Team Lead (Sr. Engineering Manager) at Elastic helping the Enterprise Search team make it easy for developers to build search experiences at petabyte scale.
 
-Prior to Elastic, Rich was Director of Engineering at Constant Contact, responsible for the development of their flagship web-based email editor used by hundreds of thousands of small businesses to create beautiful, effective marketing emails. Rich also managed their Contacts platform, a Ruby on Rails application that manages billions of customer email contacts and processes millions of API requests per day.
+Prior to Elastic, Rich was a Director of Engineering at Constant Contact, responsible for the development of their flagship web-based email editor used by hundreds of thousands of small businesses to create beautiful, effective marketing emails. Rich also managed their Contacts platform, a Ruby on Rails application that manages billions of customer email contacts and processes millions of API requests per day.
 
 
 ## Career Objective
@@ -47,6 +47,8 @@ To use his talents as a passionate software engineer and technical leader to hel
 * [Mutating HipChat with AWS, GraphQL, and React](https://www.cornchat.online/index.html) just for fun (2018)
 
 * [BrowserUp](https://browserup.com/) startup (2018)
+
+* [Schema-Tools](https://github.com/richkuz/schema-tools) Ruby Gem (2025)
 
 
 ## Personality

@@ -1,9 +1,9 @@
 {{ $options := (dict "outputStyle" "compressed") }}
 {{ $sass := resources.Get "css/site.sass" }}
 {{ if $.Site.Params.postcss }}
-{{ .Scratch.Set "sass" ($sass | resources.ToCSS $options | postCSS | resources.Minify | resources.Fingerprint "sha512") }}
+{{ .Scratch.Set "sass" ($sass | css.Sass $options | postCSS | resources.Minify | resources.Fingerprint "sha512") }}
 {{ else }}
-{{ .Scratch.Set "sass" ($sass | resources.ToCSS $options | resources.Minify | resources.Fingerprint "sha512") }}
+{{ .Scratch.Set "sass" ($sass | css.Sass $options | resources.Minify | resources.Fingerprint "sha512") }}
 {{ end }}
 <head>
   <meta charset="utf-8">
